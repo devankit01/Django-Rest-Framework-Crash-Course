@@ -12,7 +12,7 @@ Different Methods to create class based APIs ✨:
         Request methods : list(), create(), retrieve(), update(), delete()
         Classes : mixins.ListModelMixin,mixins.CreateModelMixin,  mixins.RetrieveModelMixin, mixins.UpdateModelMixin, mixins.DestroyModelMixin
  4. ViewSet 
-        Classes : ViewSet or ModelViewSet
         Request methods : list(), create(), retrieve(), update(), delete()
+        Classes : ViewSet or ModelViewSet
         
  I've integrated these methods in this project.
